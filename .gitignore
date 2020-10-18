@@ -1,0 +1,13 @@
+# Permanently ignored
+blog/
+Thumbs.db
+
+# Ignored for now
+nunitsoftware.com/nunitlite/
+journeys/
+shoreline/
+test/
+test-*.html
+
+Assert Interfaces.txt
+robots.txt
